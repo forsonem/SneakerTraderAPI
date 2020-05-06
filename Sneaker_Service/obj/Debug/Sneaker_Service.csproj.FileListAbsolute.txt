@@ -1,0 +1,15 @@
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Sneaker_Service.dll
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Sneaker_Service.pdb
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\obj\Debug\Sneaker_Service.csprojAssemblyReference.cache
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\obj\Debug\Sneaker_Service.dll
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\obj\Debug\Sneaker_Service.pdb
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Sneaker_Service.dll.config
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\EntityFramework.dll
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\EntityFramework.xml
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\UPinc\source\repos\C# Projects 2020\SneakerTrader\Sneaker_Service\obj\Debug\Sneaker_Service.csproj.CopyComplete

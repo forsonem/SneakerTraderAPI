@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakerTraderAPI", "SneakerTraderAPI\SneakerTraderAPI.csproj", "{617925B3-178B-4DFC-A362-31DFBA59FA2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaker_Data", "Sneaker_Data\Sneaker_Data.csproj", "{A339E50D-B15B-413D-AD78-AFA652E7EE09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaker_Models", "Sneaker_Models\Sneaker_Models.csproj", "{A2DB76F7-7A8B-4B7C-88F5-CBA4C7957EE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sneaker_Service", "Sneaker_Service\Sneaker_Service.csproj", "{BE1D6E53-2EE0-425B-B069-65867ECCB4CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617925B3-178B-4DFC-A362-31DFBA59FA2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617925B3-178B-4DFC-A362-31DFBA59FA2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617925B3-178B-4DFC-A362-31DFBA59FA2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617925B3-178B-4DFC-A362-31DFBA59FA2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A339E50D-B15B-413D-AD78-AFA652E7EE09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A339E50D-B15B-413D-AD78-AFA652E7EE09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A339E50D-B15B-413D-AD78-AFA652E7EE09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A339E50D-B15B-413D-AD78-AFA652E7EE09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2DB76F7-7A8B-4B7C-88F5-CBA4C7957EE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2DB76F7-7A8B-4B7C-88F5-CBA4C7957EE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2DB76F7-7A8B-4B7C-88F5-CBA4C7957EE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2DB76F7-7A8B-4B7C-88F5-CBA4C7957EE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE1D6E53-2EE0-425B-B069-65867ECCB4CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE1D6E53-2EE0-425B-B069-65867ECCB4CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE1D6E53-2EE0-425B-B069-65867ECCB4CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE1D6E53-2EE0-425B-B069-65867ECCB4CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBE5E512-79F9-4F4E-BBE0-C4203F4555F6}
+	EndGlobalSection
+EndGlobal
