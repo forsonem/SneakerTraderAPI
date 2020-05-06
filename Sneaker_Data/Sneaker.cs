@@ -12,7 +12,7 @@ namespace Sneaker_Data
     public class Sneaker
     {
         [Key]
-        public int KickId { get; set; }
+        public int SneakerId { get; set; }
         public int ProfileId { get; set; }
 
         [ForeignKey(nameof(ProfileId))]

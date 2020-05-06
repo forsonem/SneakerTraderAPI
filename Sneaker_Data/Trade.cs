@@ -18,13 +18,14 @@ namespace Sneaker_Data
 
         [ForeignKey(nameof(ProfileId))]
         public virtual Profile Profile { get; set; }
+        //[Required]
+        //public int SneakerId { get; set; }
+        //[ForeignKey(nameof(SneakerId))]
+        //public virtual Sneaker Sneaker { get; set; }
         [Required]
         public DateTimeOffset DateofTrade { get; set; }
 
-        [Required]
-        public int SneakerId { get; set; }
-        [ForeignKey(nameof(SneakerId))]
-        public virtual Sneaker Sneaker { get; set; }
+        
 
     }
 }

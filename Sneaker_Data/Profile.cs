@@ -19,8 +19,8 @@ namespace Sneaker_Data
         public string Username { get; set; }
         public DateTimeOffset DateOfBirth { get; set; }
         public string Email { get; set; }
-        public Sneaker SneakerTable { get; set; }
-        public Trade TradeTable { get; set; }
+        //public Sneaker SneakerTable { get; set; }
+        //public Trade TradeTable { get; set; }
         public List<Sneaker> OwnedSneakers { get; set; }
 
     }
